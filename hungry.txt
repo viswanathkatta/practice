@@ -3,6 +3,5 @@ if hungry == "yes"
 print("eat samosa")
 print ("eat pizza")
 print ("drink tee")
-print ("take rest")
 elase
 print ("do your work")
